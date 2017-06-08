@@ -1,0 +1,22 @@
+{
+  "name": "banalytics",
+  "homepage": "https://github.com/rfsdalotto/bAnalytics.js",
+  "authors": [
+    "Roque <roquefsd@gmail.com>"
+  ],
+  "description": "",
+  "main": "./dist/Alpha1.0/bAnalytics.min.js",
+  "keywords": [
+    "google",
+    "analytics",
+    "analytics"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
