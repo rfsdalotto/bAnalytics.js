@@ -214,6 +214,7 @@
             console.log("Label: " + label + " }");
         }
     }
+    bAnalytics.send_ga_data = send_ga_data;
 
     bAnalytics.toggle_debug = function (command) {
         debug = command;
